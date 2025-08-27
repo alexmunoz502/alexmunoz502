@@ -4,7 +4,7 @@
 
 ## 🧑🏻‍💻 About Me
 
-I'm a results-driven software engineer with experience building scalable web applications, leading DevOps initiatives, and leveraging AI to create robust, mission-critical systems. I enjoy tackling complex problems, learning new technologies, and contributing to open-source projects.
+I'm a results-driven software engineer with experience building scalable web applications, leading DevOps initiatives, and leveraging AI to create robust, mission-critical systems. I enjoy tackling complex problems, learning new technologies, and designing systems that are simple, scalable, and reliable.
 
 Outside of work, I run **[Greensboro Devs](https://greensboro-devs.github.io)**, the largest software developer meetup in the North Carolina Triad area, where I organize events, share knowledge, and promote continuous learning.
 
