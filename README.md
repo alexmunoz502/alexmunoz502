@@ -1,4 +1,4 @@
-# Hi, I'm Alex Muñoz 👋
+# 👋 Hi, I'm Alex Muñoz
 
 **Full-Stack Engineer | AI + DevOps | Community Builder**
 
